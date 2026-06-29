@@ -73,3 +73,18 @@ export const merchantApi = {
   hot: () => request.get('/merchant/hot'),
   detail: (id) => request.get(`/merchant/detail/${id}`),
 }
+
+export const friendApi = {
+  sendRequest: (phone) => request.post('/friend/request', { phone }),
+  handleRequest: (requestId, accept) => request.put(`/friend/request/${requestId}`, { accept }),
+  getReceivedRequests: () => request.get('/friend/requests/received'),
+  getSentRequests: () => request.get('/friend/requests/sent'),
+  getFriendList: () => request.get('/friend/list'),
+  isFriend: (userId) => request.get(`/friend/check/${userId}`),
+}
+
+export const postApi = {
+  create: (content) => request.post('/post', { content }),
+  getFeed: () => request.get('/post/feed'),
+  toggleLike: (postId) => request.post(`/post/${postId}/like`),
+}

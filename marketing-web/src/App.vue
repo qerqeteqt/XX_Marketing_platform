@@ -12,6 +12,8 @@
         <div class="header-right">
           <template v-if="userStore.isLoggedIn">
             <span class="welcome">Hi, {{ userStore.nickname }}</span>
+            <el-button text @click="$router.push('/moments')">朋友圈</el-button>
+            <el-button text @click="$router.push('/friends')">好友</el-button>
             <el-button text @click="$router.push('/my-orders')">我的优惠券</el-button>
             <el-button type="danger" text @click="handleLogout">退出</el-button>
           </template>
