@@ -1,0 +1,84 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: marketing-platform
+
+  # MySQL
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/xx_marketing?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&useSSL=false&allowPublicKeyRetrieval=true
+      username: root
+      password: 1234
+      initial-size: 5
+      min-idle: 5
+      max-active: 20
+
+  # Redis
+  data:
+    redis:
+      host: 127.0.0.1
+      port: 6379
+      lettuce:
+        pool:
+          max-active: 10
+          max-idle: 10
+          min-idle: 1
+          time-between-eviction-runs: 10s
+
+  # RabbitMQ
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
+    listener:
+      simple:
+        acknowledge-mode: manual
+        prefetch: 10
+
+# MyBatis-Plus
+mybatis-plus:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.xx.marketing.entity
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+
+# JWT
+jwt:
+  access-token:
+    secret: XxMarketingPlatform2026AccessTokenSecretKeyForJWT
+    ttl: 1800000  # 30 minutes in ms
+  refresh-token:
+    secret: XxMarketingPlatform2026RefreshTokenSecretKeyForJWT
+    ttl: 604800000  # 7 days in ms
+
+# Canal (sync MySQL binlog to Redis via RabbitMQ)
+canal:
+  enabled: false
+  destination: example
+  server: localhost:11111
+
+# Marketing business config
+marketing:
+  # 验证码
+  sms:
+    code-length: 6
+    code-ttl: 300  # 5 minutes in seconds
+    send-interval: 60  # 60s between sends
+  # 优惠券
+  coupon:
+    max-per-user: 3  # 每人限领N张
+    cache-ttl-min: 1800  # 缓存最小TTL 30min
+    cache-ttl-max: 3600  # 缓存最大TTL 60min
