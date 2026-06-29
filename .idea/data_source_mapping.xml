@@ -2,6 +2,7 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/sql/init.sql" value="27b72f53-e37e-4016-8b62-c9320ff2ce33" />
+    <file url="file://$PROJECT_DIR$/sql/social.sql" value="27b72f53-e37e-4016-8b62-c9320ff2ce33" />
     <file url="file://$PROJECT_DIR$/sql/update_data.sql" value="27b72f53-e37e-4016-8b62-c9320ff2ce33" />
   </component>
 </project>

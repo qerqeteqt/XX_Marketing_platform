@@ -34,6 +34,18 @@ const routes = [
     name: 'MyOrders',
     component: () => import('@/views/MyOrders.vue'),
     meta: { title: '我的优惠券', requireAuth: true }
+  },
+  {
+    path: '/moments',
+    name: 'Moments',
+    component: () => import('@/views/Moments.vue'),
+    meta: { title: '朋友圈', requireAuth: true }
+  },
+  {
+    path: '/friends',
+    name: 'Friends',
+    component: () => import('@/views/Friends.vue'),
+    meta: { title: '好友', requireAuth: true }
   }
 ]
 
