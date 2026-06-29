@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="535b0c1e-6be7-495b-9e7f-95e329f31c59" name="更改" comment="基础功能版本1.0">
+      <change afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/27b72f53-e37e-4016-8b62-c9320ff2ce33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/27b72f53-e37e-4016-8b62-c9320ff2ce33/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/27b72f53-e37e-4016-8b62-c9320ff2ce33/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/27b72f53-e37e-4016-8b62-c9320ff2ce33/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/27b72f53-e37e-4016-8b62-c9320ff2ce33/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal-config/INSTALL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal-config/canal.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal-config/instance.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/assets/vue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/stores/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/views/Coupons.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/views/MerchantDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/src/views/MyOrders.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing-web/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-config/INSTALL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/update_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketing-server/src/main/java/com/xx/marketing/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/marketing-server/src/main/java/com/xx/marketing/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketing-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/marketing-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketing-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/marketing-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketing-server/target/classes/com/xx/marketing/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/marketing-server/target/classes/com/xx/marketing/config/WebMvcConfig.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="102" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "qerqeteqt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/qerqeteqt/XX_Marketing_platform.git",
+    "accountId": "5113feaf-7f5d-4b21-a42b-c6bfce1fcfcb"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/marketing-server/target/classes/application.yml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3Fl1lNsfCkPeov9uQo8UXNUoF5T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.MarketingApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java_anything/IDEA/IDEA_Project/XX_Marketing_platform/canal-config",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.MarketingApplication.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_anything\IDEA\IDEA_Project\XX_Marketing_platform\canal-config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MarketingApplication">
+    <configuration name="MarketingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xx.marketing.MarketingApplication" />
+      <module name="marketing-platform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xx.marketing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="init.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql/init.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="MarketingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="marketing-platform" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xx.marketing.MarketingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MarketingApplication" />
+        <item itemvalue="数据库脚本.init.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="535b0c1e-6be7-495b-9e7f-95e329f31c59" name="更改" comment="" />
+      <created>1782634991932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782634991932</updated>
+      <workItem from="1782634993360" duration="1423000" />
+      <workItem from="1782636455863" duration="10797000" />
+      <workItem from="1782697743649" duration="12129000" />
+    </task>
+    <task id="LOCAL-00001" summary="过滤规则">
+      <option name="closed" value="true" />
+      <created>1782699797245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782699797245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="基础功能版本1.0">
+      <option name="closed" value="true" />
+      <created>1782701658795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782701658795</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vite" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vue" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="过滤规则" />
+    <MESSAGE value="基础功能版本1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础功能版本1.0" />
+  </component>
+</project>
