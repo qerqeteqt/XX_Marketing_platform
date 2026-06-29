@@ -1,0 +1,18 @@
+# IDEA
+.idea/
+*.iml
+# Maven编译产物
+target/
+*.class
+.mvn/
+buddy/
+# 日志
+logs/
+*.log
+# 前端依赖&打包
+node_modules/
+dist/
+# 系统临时文件
+.DS_Store
+# VSCode
+.vscode/
